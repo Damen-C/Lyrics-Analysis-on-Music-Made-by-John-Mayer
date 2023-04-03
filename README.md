@@ -57,3 +57,10 @@ https://medium.com/@cd_24/using-bertopic-to-analyze-qatar-world-cup-twitter-data
 
 ## Code
 The codes programmed in this project are displayed in this repository. Feel free to check and use them. 
+
+## Relevant Materials
+If you are curious to know more details about lyrics analysis, go check my posts on Medium. 
+- [Lyrics Analysis with NLP Techniques (1)](https://medium.com/@cd_24/lyrics-analysis-with-nlp-techniques-1-ef73e1f8c958)
+- [Lyrics Analysis with NLP Techniques (2)](https://medium.com/@cd_24/lyrics-analysis-with-nlp-techniques-2-eb02c8e33bda)
+- [Lyrics Analysis with NLP Techniques (3)](https://medium.com/@cd_24/lyrics-analysis-with-nlp-techniques-3-436928fabb4)
+- [Lyrics Analysis with NLP Techniques (4)](https://medium.com/@cd_24/lyrics-analysis-with-nlp-techniques-4-sentiment-analysis-on-albums-88363eac33fb)
